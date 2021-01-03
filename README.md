@@ -6,20 +6,15 @@ I am a self-taught Junior Developer looking to get into the world of technology,
 
 # Projects
 
-| Project | Summary |
-| ------- | ------- |
+[CV](https://github.com/T-Stewart/tom_stewart_cv) - Used ReactJS and CSS grid - great for responsive design [Deployed on Netlify](https://gallant-haibt-b00cbe.netlify.app/)
 
-|[CV](https://github.com/T-Stewart/tom_stewart_cv)|Used ReactJS and CSS grid - great for responsive design[Deployed on Netlify](https://gallant-haibt-b00cbe.netlify.app/)|
+[Guano](https://github.com/T-Stewart/Guano) - A Twitter soft play area created using ReactJS. Used this project to learn and understand CRUD app development. Unit-tested components utilising Jest and CSS grid for design. Used Mongo DB as my database, which provided exposure to backend functionality. Axios was used for sending http requests.
 
-|[Guano](https://github.com/T-Stewart/Guano)| A Twitter soft play area created using ReactJS. Used this project to learn and understand CRUD app development. Unit-tested components utilising Jest and CSS grid for design. Used Mongo DB as my database, which provided exposure to backend functionality. Axios was used for sending http requests.|
+[Miso](https://github.com/T-Stewart/miso) - Created a website to sell my brothers cat Miso. I was not commissioned to do this - he was just getting on my nerves. The cat that is. Created using ReactJS. I wanted to practise and develop CSS skills, keeping the design clean and modern. Used Bootstrap for design.
 
-|[Miso](https://github.com/T-Stewart/miso)| Created a website to sell my brothers cat Miso. I was not commissioned to do this - he was just getting on my nerves. The cat that is. Created using ReactJS. I wanted to practise and develop CSS skills, keeping the design clean and modern. Used Bootstrap for design.|
+[Semi-toned](https://github.com/T-Stewart/semi-toned) - Created a website for my podcast using React JS and CSS grid for design. As it's a music commentary podcast, I wanted to create a unique way to display what my co-host and myself are listening to currently. [Deployed on Netlify](https://competent-hugle-6b7204.netlify.app)
 
-|[Semi-toned](https://github.com/T-Stewart/semi-toned)| Created a website for my podcast using React JS and CSS grid for design. As it's a music commentary podcast, I wanted to create a unique way to display what my co-host and myself are listening to currently. [Deployed on Netlify](https://competent-hugle-6b7204.netlify.app) |
-
-|[card web app](https://github.com/T-Stewart/JS-Card-Game)| - work in progress. Used with vanilla JavaScript - great for understanding what goes on under the hood before tackling frameworks including React JS.
-
-<!-- Ruby -->
+[card web app](https://github.com/T-Stewart/JS-Card-Game) - Work in progress. Used with vanilla JavaScript - great for understanding what goes on under the hood before tackling frameworks including React JS.
 
 # Skills
 
